@@ -1,6 +1,9 @@
 # Abhi200
 <h1 align="center">Hi 👋, I'm ABHINAY GEDELA</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
+<p align="center">
+  <img src="https://hackernoon.imgix.net/hn-images/1*zm5NLjdhGd3VVTA2u-xEPg.gif?auto=format&fit=max&w=1920" alt="Animated Image" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhii200&label=Profile%20views&color=0e75b6&style=flat" alt="abhii200" /> </p>
 
