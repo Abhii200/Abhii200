@@ -1,4 +1,4 @@
-# Abhi200
+# Abhii200
 <h1 align="center">Hi 👋, I'm ABHINAY GEDELA</h1>
 I'm a passionate full-stack developer with a keen interest in building robust and scalable web applications.
 
