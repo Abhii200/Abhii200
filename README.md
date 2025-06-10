@@ -68,7 +68,7 @@ I'm a passionate full-stack developer with a keen interest in building robust an
 </div>
 
 
-![Profile views](https://komarev.com/ghpvc/?username=abhii200&label=Profile%20views&color=0e75b6&style=flat)
+
 
 
 
