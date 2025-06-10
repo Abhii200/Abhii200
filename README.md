@@ -84,7 +84,8 @@ I'm a passionate full-stack developer with a keen interest in building robust an
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhii200&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&token=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)<br/>
+![](https://github-readme-streak-stats.demolab.com/?user=abhii200&theme=tokyonight&hide_border=true)
+
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=abhii200&theme=tokyonight&hide_border=true)<br/>
 
 
